@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MossiGame Block05</string>
+    <string name="button">Button</string>
+    <string name="level">Level</string>
+    <string name="score">Score</string>
+    <string name="time">Time</string>
+    <string name="catches">Catches</string>
+    <string name="title_activity_game_over">GameOverActivity</string>
+</resources>
